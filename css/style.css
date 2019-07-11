@@ -1,0 +1,65 @@
+
+
+.logo-image{
+	width: 250;
+	height: 50px;
+}
+.header-top{
+	background: #131D3B;
+	color:white;
+}
+hr{
+	background: #1F2945;
+}
+.t20{
+	top:20px;
+}
+.hero-slider{
+	background:#0C1429;
+	padding: 100px 150px;
+}
+.circle{
+	display: inline-block;
+    border-radius: 60px;
+    box-shadow: 0px 0px 3px #bb4011;
+    padding: 10px;
+} 
+.img-logo{
+	width:20px;
+	height: 20px;
+
+}
+.icon-color{
+	color: #BB4011;
+}
+.h1-text-size{
+	font-size:100px;
+}
+.gradient-bg{
+	background-image:linear-gradient(to bottom,#F2F3F5,#fefefe);
+	
+}
+.violent-box{
+	background: #000;
+    width: 300px;
+    height:200px;
+}
+.top-history-content{
+	bottom:472px;
+	
+
+}
+
+.h500{
+	height: 500px;
+	
+	
+}
+.second-box{
+	top:200px;
+	right:120px;
+
+}
+.service-bg{
+	background: #F2F3F5;
+}
